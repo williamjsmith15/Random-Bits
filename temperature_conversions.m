@@ -1,4 +1,5 @@
 %TEMPERATURE_CONDITIONS
+%Display graph of temperature conversions between c, F, K and N
 %Check temperature conversions between Kelvin, Fahrenhiet, Celsius and
 %Newton
 
