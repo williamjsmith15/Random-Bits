@@ -1,5 +1,5 @@
 %TEMPERATURE_CONDITIONS
-%Check temperature conversions between Kelvin, Fahrenhiet, Celsius and
+%Print key temperature conversions between Kelvin, Fahrenhiet, Celsius and
 %Newton
 
 %Save degree symbol as variable
